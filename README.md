@@ -1,2 +1,3 @@
-# Devops-assessment-
-This is a directory of questions to assess ones Devops Tech Skills 
+Greetings, Internzlearn Students!
+
+You are requested to fulfill the assignments contained in this directory regarding DevOps technical skills. We will review and discuss your submissions during the upcoming session.
