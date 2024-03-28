@@ -1,0 +1,15 @@
+
+1. **Question 1:**
+   Explain the significance of the Internet in modern communication and networking. How does the Internet facilitate global connectivity and information exchange? Discuss the role of Internet protocols such as TCP/IP in enabling communication between devices across diverse networks.
+
+2. **Question 2:**
+   Define an IP subnet mask and explain its purpose in IP networking. How does a subnet mask help in determining the network and host portions of an IP address? Provide an example to demonstrate how subnetting allows for efficient address allocation in a network.
+
+3. **Question 3:**
+   Describe the OSI (Open Systems Interconnection) model and its seven layers. What are the functions and responsibilities of each layer in the OSI model? Illustrate with examples how data flows through the OSI layers during communication between two networked devices.
+
+4. **Question 4:**
+   Discuss the role of the Internet Protocol (IP) within the TCP/IP protocol suite. What are the key features and functions of the IP protocol? How does IP address assignment and routing contribute to the efficient transmission of data packets across the Internet?
+
+5. **Question 5:**
+   Compare and contrast IPv4 and IPv6 addressing schemes. What are the limitations of IPv4 that led to the development of IPv6? Discuss the advantages of IPv6 over IPv4 in terms of address space, security, and network management. Additionally, explain the transition mechanisms used to migrate from IPv4 to IPv6 in today's networks.
