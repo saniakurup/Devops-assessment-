@@ -1,0 +1,15 @@
+
+1. **Question 1:**
+   Describe the purpose and activities involved in the "Plan" stage of the DevOps lifecycle. How does effective planning contribute to the success of software development and deployment processes within a DevOps environment?
+
+2. **Question 2:**
+   Discuss the significance of "Continuous Integration" in the DevOps lifecycle. How does this stage facilitate collaboration among development and operations teams? Provide examples of tools and practices commonly used for continuous integration in DevOps.
+
+3. **Question 3:**
+   Explain the differences between "Continuous Deployment" and "Continuous Delivery" within the context of the DevOps lifecycle. How do these stages ensure rapid and reliable software releases while maintaining quality and stability?
+
+4. **Question 4:**
+   Analyze the role of "Continuous Monitoring" in the DevOps lifecycle. What metrics and key performance indicators (KPIs) should be monitored during this stage, and how do they help in identifying and resolving issues proactively?
+
+5. **Question 5:**
+   Describe the activities involved in the "Operate" stage of the DevOps lifecycle. How does this stage ensure the smooth operation and performance of deployed applications? Discuss the importance of automation, scalability, and resilience in DevOps operations.
